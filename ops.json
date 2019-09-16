@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "328631d9-fdb9-32f4-9365-9ca9dae8b2b4",
+    "name": "NiO",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1aeaed22-af27-35e6-8beb-41b317ab580d",
+    "name": "Niotron(Legacy)",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3f5ee0b8-b2ee-38b0-a845-ed633c2d98cf",
+    "name": "FornoGamer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
